@@ -144,14 +144,6 @@ I'm actively seeking **entry-level Data Analyst roles** where I can apply SQL, E
 
 ---
 
-## 📊 GitHub Stats
-
-![Marcus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcbenjake&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcbenjake&layout=compact&theme=default&hide_border=true)
-
----
-
 *"Every dataset has a story to tell. My job is to find it."*
 
 ---
