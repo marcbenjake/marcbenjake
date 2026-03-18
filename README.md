@@ -10,6 +10,8 @@
 
 ## About Me
 
+*"Every dataset has a story to tell. My job is to find it."*
+
 I've always been curious about the *why* behind the numbers.
 
 It started on the floor of a busy Walmart backroom, wondering why certain products arrived in excess while others ran out, what customer behaviours were driving those patterns, and which promotions were actually working. My role was operations, not analysis. But the questions never stopped.
@@ -141,10 +143,6 @@ I'm actively seeking **entry-level Data Analyst roles** where I can apply SQL, E
 - 📣 Marketing & Campaign Analytics
 - 👥 Customer Insights & Segmentation
 - 📦 Operations & Supply Chain Analytics
-
----
-
-*"Every dataset has a story to tell. My job is to find it."*
 
 ---
 
