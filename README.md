@@ -52,7 +52,7 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 - Calculated month-over-month revenue growth using LAG() — range of **-42.7% to +90.8%**
 - Documented dataset limitations and authored a formal Executive Summary Report
 
-🔗 [View Project](https://github.com/marcbenjake)
+🔗 [View Project]([https://github.com/marcbenjake](https://github.com/marcbenjake/Retail-Customer-Channel-Analytics-with-SQL))
 
 ---
 
@@ -68,7 +68,7 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 - Uncovered that mid-income customers (11k–20k) outconvert the highest earners — **26.3% vs 9.6%**
 - Authored a comprehensive Executive Summary Report with recommendations for sales, marketing, and product teams
 
-🔗 [View Project](https://github.com/marcbenjake)
+🔗 [View Project]([https://github.com/marcbenjake](https://github.com/marcbenjake/Travel-Analytics-Project))
 
 ---
 
@@ -105,7 +105,7 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 
 - Built pivot table-based EDA to identify patterns in graduate employment rates and salary distributions by field of study
 
-🔗 [View Project](https://github.com/marcbenjake)
+🔗 [View Project]([https://github.com/marcbenjake](https://github.com/marcbenjake/Graduate-Majors-Employment-Analysis))
 
 ---
 
