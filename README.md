@@ -8,13 +8,13 @@
 
 ---
 
-## 🙋 About Me
+## About Me
 
 I've always been curious about the *why* behind the numbers.
 
-It started on the floor of a busy Walmart backroom — wondering why certain products arrived in excess while others ran out, what customer behaviours were driving those patterns, and which promotions were actually working. My role was operations, not analysis. But the questions never stopped.
+It started on the floor of a busy Walmart backroom, wondering why certain products arrived in excess while others ran out, what customer behaviours were driving those patterns, and which promotions were actually working. My role was operations, not analysis. But the questions never stopped.
 
-That curiosity followed me across every role — tracking campaign KPIs across 10,000+ schools in India, rebuilding a broken inventory system to near-100% accuracy, and independently building Excel-based outreach pipelines to recover dormant client revenue. I was doing analytical work in every role. I just didn't have the title yet.
+That curiosity followed me across every role, tracking campaign KPIs across 10,000+ schools in India, rebuilding a broken inventory system to near-100% accuracy, and independently building Excel-based outreach pipelines to recover dormant client revenue. I was doing analytical work in every role. I just didn't have the title yet.
 
 When I discovered data analytics as a career, it wasn't a pivot — it was a recognition.
 
@@ -22,7 +22,7 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
@@ -79,7 +79,7 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 
 - Removed duplicates, standardized date formats, company names, industry categories, and country names
 - Applied **intelligent NULL handling** — cross-referencing records to fill missing industry values rather than blanket deletion
-- Conducted EDA across **12 analytical dimensions** including rolling totals, running totals by company per year, and annual ranking using CTEs and window functions
+- Conducted EDA across **12 analytical dimensions**, including rolling totals, running totals by company per year, and annual ranking using CTEs and window functions
 
 🔗 [View Project](https://github.com/marcbenjake)
 
@@ -91,7 +91,7 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 
 > Exploratory analysis of hospital employee attrition patterns — identifying key drivers of employee turnover.
 
-- Cleaned and prepared dataset in Excel before building Tableau visualizations
+- Cleaned and prepared the dataset in Excel before building Tableau visualizations
 - Analyzed attrition by department, role, tenure, and demographic variables
 
 🔗 [View Project](https://github.com/marcbenjake)
