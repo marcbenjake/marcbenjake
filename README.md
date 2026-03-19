@@ -50,6 +50,7 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 
 > Coming Soon
 
+🔗 [View Project](https://github.com/marcbenjake/NovaMart-Retail-Analysis)
 ---
 
 ### From Clicks to Customers — E-Commerce SQL Analysis
