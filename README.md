@@ -41,9 +41,13 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 
 ---
 
-## 📁 Portfolio Projects
+## Portfolio Projects
+### NovaMart Retail Analytics
+> Coming Soon
 
-### 🛒 From Clicks to Customers — E-Commerce SQL Analysis
+---
+
+### From Clicks to Customers — E-Commerce SQL Analysis
 ![SQL](https://img.shields.io/badge/SQL_Server-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 > Self-initiated end-to-end SQL analysis of a synthetic e-commerce dataset — 5,000 orders, 500 customers, 2021–2024.
@@ -58,7 +62,7 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 
 ---
 
-### ✈️ Travel Analytics Dashboard
+### Travel Analytics Dashboard
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
@@ -74,7 +78,7 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 
 ---
 
-### 🌍 Global Layoffs — SQL Data Cleaning
+### Global Layoffs — SQL Data Cleaning
 ![SQL](https://img.shields.io/badge/SQL_Server-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 > Multi-stage data cleaning project on a real-world global layoffs dataset — 2,623 rows, 2020–2023.
@@ -87,7 +91,7 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 
 ---
 
-### 🏥 Hospital Employee Attrition Analysis
+### Hospital Employee Attrition Analysis
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
@@ -100,7 +104,7 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 
 ---
 
-### 🎓 College Graduate Outcomes Analysis
+### College Graduate Outcomes Analysis
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 > Analysis of college graduate employment and salary outcomes across disciplines.
@@ -111,7 +115,7 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 
 ---
 
-## 💼 Professional Background
+## Professional Background
 
 | Role | Company | Key Achievement |
 |---|---|---|
@@ -124,26 +128,26 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-- 🎓 **Data Analyst Training Program** — Data in Motion (2026)
-- 🎓 **Post-Graduate Certificate, Strategic Marketing Communications** — Conestoga College
-- 🎓 **MBA, Marketing & HR Management** — Bharatiya Vidya Bhavan's ULLMI
-- 🎓 **BSc, Hospitality Management** — Punjab Technical University
-- 📜 **Certified Associate in Project Management (CAPM)** — PMI
-- 📜 **Excel Essential Training** — LinkedIn Learning
+- **Data Analyst Training Program** — Data in Motion (2026)
+- **Post-Graduate Certificate, Strategic Marketing Communications** — Conestoga College
+- **MBA, Marketing & HR Management** — Bharatiya Vidya Bhavan's ULLMI
+- **BSc, Hospitality Management** — Punjab Technical University
+- **Certified Associate in Project Management (CAPM)** — PMI
+- **Excel Essential Training** — LinkedIn Learning
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 I'm actively seeking **entry-level Data Analyst roles** where I can apply SQL, Excel, and Tableau to help teams make smarter, faster decisions. I'm particularly drawn to:
 
-- 🛒 Retail & E-Commerce Analytics
-- 📣 Marketing & Campaign Analytics
-- 👥 Customer Insights & Segmentation
-- 📦 Operations & Supply Chain Analytics
+- Retail & E-Commerce Analytics
+- Marketing & Campaign Analytics
+- Customer Insights & Segmentation
+- Operations & Supply Chain Analytics
 
 ---
 
-⭐ **Feel free to explore my repositories and reach out — I'm always open to connecting with fellow analysts, hiring managers, and anyone passionate about data!**
+**Feel free to explore my repositories and reach out — I'm always open to connecting with fellow analysts, hiring managers, and anyone passionate about data!**
