@@ -87,7 +87,7 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 - Applied **intelligent NULL handling** — cross-referencing records to fill missing industry values rather than blanket deletion
 - Conducted EDA across **12 analytical dimensions**, including rolling totals, running totals by company per year, and annual ranking using CTEs and window functions
 
-🔗 [View Project](https://github.com/marcbenjake)
+🔗 [View Project](https://github.com/marcbenjake/Global-Layoffssql_data_cleaning)
 
 ---
 
