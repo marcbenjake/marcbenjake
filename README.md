@@ -43,6 +43,11 @@ In January 2026, I went all in — completing a formal **Data Analyst training p
 
 ## Portfolio Projects
 ### NovaMart Retail Analytics
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+
 > Coming Soon
 
 ---
