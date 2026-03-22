@@ -18,9 +18,9 @@ It started on the floor of a busy Walmart backroom, wondering why certain produc
 
 That curiosity followed me across every role, tracking campaign KPIs across 10,000+ schools in India, rebuilding a broken inventory system to near-100% accuracy, and independently building Excel-based outreach pipelines to recover dormant client revenue. I was doing analytical work in every role. I just didn't have the title yet.
 
-When I discovered data analytics as a career, it wasn't a pivot — it was a recognition.
+When I discovered data analytics as a career, it wasn't a pivot; it was a recognition.
 
-In January 2026, I went all in — completing a formal **Data Analyst training program (Data in Motion)** and building a portfolio of projects from scratch across e-commerce, travel, education, and healthcare analytics.
+In January 2026, I went all in. I completed a formal **Data Analyst training program (Data in Motion)** and building a portfolio of projects from scratch across e-commerce, travel, education, and healthcare analytics.
 
 ---
 
