@@ -47,7 +47,7 @@ In January 2026, I went all in. I completed a formal **Data Analyst training pro
 ![SQL](https://img.shields.io/badge/SQL_Server-4479A1?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-> NovaMart Retail Analysis -- End-to-end retail analytics project built on a self-designed synthetic dataset simulating a Canadian e-commerce brand
+> End-to-end retail analytics project built on a self-designed synthetic dataset simulating a Canadian e-commerce brand
 
 - Designed and generated 4 relational tables (10,000+ orders, 3,000 customers, 300 products, 80 campaigns) with intentional data quality issues
 - Conducted a full data audit across 7 quality checks before cleaning, preserving raw tables and creating clean versions using SQL Server
